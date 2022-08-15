@@ -19,10 +19,8 @@ Eight models are used in this project to check for maximum efficiency. They are,
 - Naive Bayes
 - KNN
 - Decision Tree
-- Neural Network
 - Random Forest
 - XGBoost
-- AdaBoost
 ## Conclusion
 Random Forest and AdaBoost have performed equally and produced high ROC_AUC score (~90%). But ***Random Forest*** took lesser amount of time compared to time taken by AdaBoost. Therefore, we can conclude that Random Forest as the best model. <br/>
 
